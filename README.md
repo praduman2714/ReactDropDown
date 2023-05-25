@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+This is basic react, in which a div has been given a dropdown effect. If we select any options, then the answer is displayed.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshot
+#### Dropdown Images
+![ReactDropdown](https://github.com/praduman2714/ReactDropDown/assets/66240716/2ae09918-c21d-4ccc-adda-a19bbe3cb0ec)
+
+#### Dropdown Answer Images
+![ReactDropdown1](https://github.com/praduman2714/ReactDropDown/assets/66240716/6ae9c7bf-6b10-497a-bdf3-fcf72060f760)
+
